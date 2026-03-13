@@ -1,0 +1,8 @@
+{
+  "name": "chuck",
+  "description": "Chuck — visual configurator and decision logger for chuck-core. Generates manifest.json setup and chuck decide commands through interactive HTML playgrounds.",
+  "author": {
+    "name": "Chuck Smith",
+    "email": "cssmith615@gmail.com"
+  }
+}
